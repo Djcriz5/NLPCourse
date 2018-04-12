@@ -1,0 +1,28 @@
+N-grams
+N 1 unigramas
+
+etiquetadores para n gramas  mientras mas grande sea el n mas precision se tendre
+
+
+machine learning -> simula aprendizaje humano, atravez de pruebas y test para entrenarla
+
+en nuetro caso los ejemplos son ejemplos de palabra con etiquetacion
+ la maquina observa o, construye un modelo (se entrena)
+  training set
+
+  luego este modelo se aplica a modelos no etiquetados para ejecutar el tagging
+
+
+  tuning-> ajustar un sistema (afinar)
+
+
+
+  tarea.
+
+
+  mi ejercicio va a ser entrenar un etiquetador de nltk llamado nltk.unigramtagger
+  con oraciones de cess_esp y aplicarlo a la oracion 10 de nuestro archivo e960401.htm
+
+  noun -> empieza ocn nç
+
+  extraer los sustantivos lematizarlos y aplicar set89
